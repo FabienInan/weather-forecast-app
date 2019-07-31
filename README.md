@@ -1,6 +1,9 @@
 # WeatherForecastApp
 
-A responsive web application to have a look to the Weather at Vancouver
+A responsive web application to have a look to the Weather at Vancouver.
+
+## Note
+I used the 5 day api and display 16 weather forecast by 3 hours slot. 
 
 ## Install
 Run `npm install`
