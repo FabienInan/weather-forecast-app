@@ -1,6 +1,6 @@
 <div class="card">
     <div class="date">{{weatherForecast.date}}</div>
     <div class="weather-description">{{weatherForecast.weatherDescription | titlecase}}</div>
-    <img class="weather-icon" [src]= "'../../../assets/' + weatherForecast.weatherType + '.png'">
+    <img class="weather-icon" [src]= "'../../../assets/' + weatherForecast.weatherType + '.png'" [alt]="weatherForecast.weatherType">
     <div class="temperature">{{weatherForecast.temperatureInCelsius}}°C</div>
 </div>
