@@ -1,6 +1,6 @@
 # WeatherForecastApp
 
-A web application to have a look to the Weather at Vancouver
+A responsive web application to have a look to the Weather at Vancouver
 
 ## Install
 Run `npm install`
