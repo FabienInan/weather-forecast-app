@@ -1,0 +1,37 @@
+
+.card {
+    margin: 8px;
+    height: 216px;
+    border-radius: 7px;
+    box-shadow: 0.3px 0.3px 0.3px 1px rgba(0, 0, 0, 0.2);
+    font-family: 'Roboto', sans-serif;
+}
+
+.date, .weather-description {
+    color: gray;
+    margin: 0 8px;
+    line-height: 40px;
+}
+
+.date, .weather-description, .temperature {
+    text-align: center;
+}
+
+.date {
+    font-size: 28px;
+}
+
+.weather-description {
+    font-size: 24px;
+}
+
+.temperature {
+    font-size: 50px;
+}
+
+.weather-icon {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    display: block;
+}
