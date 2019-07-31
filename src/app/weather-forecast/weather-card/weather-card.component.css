@@ -11,22 +11,15 @@
     color: gray;
     margin: 0 8px;
     line-height: 40px;
+    font-size: 16px;
 }
 
 .date, .weather-description, .temperature {
     text-align: center;
 }
 
-.date {
-    font-size: 28px;
-}
-
-.weather-description {
-    font-size: 24px;
-}
-
 .temperature {
-    font-size: 50px;
+    font-size: 24px;
 }
 
 .weather-icon {
