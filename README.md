@@ -2,7 +2,7 @@
 
 A web application to have a look to the Weather at Vancouver
 
-##Install
+## Install
 Run `npm install`
 
 ## Development server
